@@ -1,0 +1,20 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+ 
+h1.title | Title h1{
+  color: red;
+}
+
+h2.title | Title h2{
+ color:red;
+}
+
+h2.subtitle-post | Subtitle h2{
+ color:red;
+}
+
+p.text-post | Post p{
+ color:red;
+}

@@ -1,0 +1,16 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+ 
+ .navbar-brand img{
+   max-width: 65px;
+   height: auto;
+   margin-right: 15px;
+ }
+ 
+ .navbar-brand{
+ display: flex;
+ align-items: center;
+ font-family: 'Roboto';
+ }
